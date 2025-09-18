@@ -1,0 +1,7 @@
+INFO: App started succ.
+INFO: User login succ.
+WARNING: Disk space Low.
+ERROR: Failed to connect the DB.
+INFO: Scheduler on.
+ERROR: Null Pointer Exception occured.
+INFO: APP shutdown.

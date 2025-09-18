@@ -1,0 +1,2 @@
+Hi Hello! Welcome to the new text file 
+This is the initial text in this file. Later we update it.Adding a new line 
