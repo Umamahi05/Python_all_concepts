@@ -30,8 +30,8 @@ try:
         cursor.execute(select_qry)
         result = cursor.fetchall()
 
-        for row in result:
-            print(row)
-
+        with open("Sample_output.txt","w") as fHnd:
+            for row in result:
+                fHnd.write(f"{row}\n")
 finally:
     connection.close()
